@@ -13,6 +13,7 @@ Source0:    http://www.cpan.org/modules/by-module/Catalyst/%{upstream_name}-%{up
 
 BuildRequires: perl(Catalyst::Runtime)
 BuildRequires: perl(HTML::Prototype)
+BuildRequires: perl(Class::Data::Inheritable)
 BuildArch: noarch
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}
 
