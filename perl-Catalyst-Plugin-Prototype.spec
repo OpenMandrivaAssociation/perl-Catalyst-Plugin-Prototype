@@ -2,8 +2,8 @@
 %define upstream_version 1.33
 
 Name:       perl-%{upstream_name}
-Version:    %perl_convert_version %{upstream_version}
-Release:    %mkrel 1
+Version:    1.330.0
+Release:    %mkrel 2
 
 Summary:    Plugin for Prototype
 License:    GPL+ or Artistic
