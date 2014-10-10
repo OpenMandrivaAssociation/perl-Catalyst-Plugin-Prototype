@@ -3,7 +3,7 @@
 
 Name:		perl-%{upstream_name}
 Version:	1.330.0
-Release:	4
+Release:	5
 
 Summary:	Plugin for Prototype
 License:	GPL+ or Artistic
